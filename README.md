@@ -69,3 +69,16 @@ higgsfield/
 *   Обертки для работы с генерацией изображений Higgsfield AI
 *   JSON локальное хранилище для быстрого прототипирования
 *   Firebase Admin (для обеспечения совместной работы на холсте)
+
+
+## Запуск
+
+
+
+cd server
+npm install package.json
+npm start
+
+cd client
+npm install package.json
+npm run dev
