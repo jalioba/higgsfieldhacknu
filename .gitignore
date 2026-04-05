@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+server/data/*.json
+!server/data/.gitkeep
+client/src/services/api.js
+client/src/services/firebase.js
